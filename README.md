@@ -1,13 +1,13 @@
 # 📊 Data Science Bootcamp 3.0 - Community Resources
 
-Welcome to the **Open Source Repository** for the **Data Science Bootcamp 3.0** by [5 Minutes Engineering YouTube Channel](https://www.youtube.com/@5MinutesEngineering)! 🚀  
+Welcome to the **Open Source Repository** for the **Data Science Bootcamp 3.0** by [5 Minutes Engineering YouTube Channel](https://www.youtube.com/@5MinutesEngineering)! 🚀  <br> <br>
 This is a collaborative space where students from the bootcamp can **share, learn, and grow together**.
 
 ---
 
 ## 📌 About This Repository
 
-This repository is created and maintained by fellow learners of the **Data Science Bootcamp 3.0**.  
+This repository is created and maintained by fellow learners of the **Data Science Bootcamp 3.0**.   <br>
 Here, you will find:
 
 - ✅ **Daily Notes** from the course  
@@ -21,7 +21,11 @@ Here, you will find:
 
 ## 🙌 How Can You Contribute?
 
-We encourage all members of the bootcamp to contribute their knowledge, notes, or code here. Here’s how:
+We encourage all members of the bootcamp to contribute their knowledge, notes, or code here. 
+
+<br> <br>
+
+Here’s how:
 
 ### 🔧 Steps to Contribute:
 
@@ -37,6 +41,7 @@ We encourage all members of the bootcamp to contribute their knowledge, notes, o
 
 ## 📁 Folder Structure
 
+```bash
 Data-Science-Bootcamp/
 │
 ├── 🗂️ Daily-Notes-and-Codes/
