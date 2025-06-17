@@ -7,7 +7,7 @@ This is a collaborative space where students from the bootcamp can **share, lear
 
 ## 📌 About This Repository
 
-This repository is created and maintained by fellow learners of the **Data Science Bootcamp 3.0**.   <br>
+This repository is created and maintained by fellow learners of the **Data Science Bootcamp 3.0**.   <br> <br>
 Here, you will find:
 
 - ✅ **Daily Notes** from the course  
@@ -22,9 +22,7 @@ Here, you will find:
 ## 🙌 How Can You Contribute?
 
 We encourage all members of the bootcamp to contribute their knowledge, notes, or code here. 
-
 <br> <br>
-
 Here’s how:
 
 ### 🔧 Steps to Contribute:
